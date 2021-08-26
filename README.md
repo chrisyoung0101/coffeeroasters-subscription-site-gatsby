@@ -1,3 +1,5 @@
+Run locally : npm run develop
+
 Live Site : https://naughty-nobel-8d099a.netlify.app
 
 <p align="center">
