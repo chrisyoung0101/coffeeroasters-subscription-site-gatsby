@@ -6,7 +6,6 @@ export default function HomePage() {
     <>
       <h1 className="center">I'm the Home Page.</h1>
       <h3 className="center">Some call me index.js.</h3>
-      <h4>comment</h4>
     </>
   );
 }
